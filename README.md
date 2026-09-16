@@ -8,16 +8,6 @@
 🛠️🤹 Threat intelligence analysis and reporting<br/>
 🛠️🤹🎯 Governance, Risk, and Compliance (GRC) alignment<br/>
 
-📚💻🎓 Cisco Certified Ethical Hacker<br/>
-📚💻🎓 AWS re/Start<br/>
-📚💻🎓 AWS Certified Cloud Practitioner<br/>
-📚💻🎓 IBM Cybersecurity<br/>
-
-💪🛠️ Analytical and investigative mindset<br/>
-💪🛠️ Identifying, isolating, and mitigating security incidents<br/>
-💪🛠️ Digital forensics tools and malware sandboxing<br/>
-💪🛠️ Cloud-based security assessments and automation<br/>
-
 🥅🚀 To advance in the field of Incident Response and Digital Forensics, integrating Threat Intelligence and GRC practices to develop resilient, intelligence-driven cybersecurity operations.<br/>
 
 
